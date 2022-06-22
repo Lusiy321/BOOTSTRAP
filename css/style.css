@@ -417,7 +417,7 @@ section.footer p {
     font-weight: bold;
 }
 
-section.footer p.adress {
+section.footer address.adress p {
     color: #878787;
     font-size: 18px;
 
@@ -425,6 +425,11 @@ section.footer p.adress {
 
 section.footer p span {
     color: #2ebaee;
+
+}
+
+section.footer p a {
+    text-decoration: none;
 }
 
 section.footer ul {
